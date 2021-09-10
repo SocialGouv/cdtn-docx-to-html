@@ -32,11 +32,11 @@ const options = {
 };
 
 const convertFile2Html = ({
-  filename,
+  cdtn_id,
+  initial_id,
   title,
   description,
-  metaDescription,
-  id,
+  filename,
   ...rest
 }) => {
   return mammoth
@@ -50,19 +50,21 @@ const convertFile2Html = ({
       const slug = slugify(title);
       const fileUrl = `https://cdtn.azure.com/${filename}`;
       return {
-        description,
-        filename,
-        fileUrl,
-        filesize: fs.statSync(`${__dirname}/${DOC_DIR}/${filename}`).size,
-        id,
-        metaDescription,
+        cdtn_id,
+        initial_id,
+        meta_description: description,
         slug,
         source: SOURCES.LETTERS,
         text: description,
         title,
-        ...rest,
-        excludeFromSearch: false,
-        html: basic_styles + result.value,
+        document: {
+          ...rest,
+          description,
+          filename,
+          fileUrl,
+          filesize: fs.statSync(`${__dirname}/${DOC_DIR}/${filename}`).size,
+          html: basic_styles + result.value,
+        },
       };
     })
     .catch((err) => {
@@ -76,7 +78,8 @@ module.exports = { getCourriers };
 
 async function main() {
   const data = await getCourriers();
-  console.log(JSON.stringify(data, 0, 2));
+  console.log(JSON.stringify(data));
+  console.error(`exported ${data.length} documents`);
 }
 
 if (require.main === module) {
