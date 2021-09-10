@@ -2,7 +2,7 @@
   "name": "@socialgouv/cdtn-docx-html",
   "version": "4.42.0",
   "private": true,
-  "description": "generate courriers.json",
+  "description": "generate courriers.out.json",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

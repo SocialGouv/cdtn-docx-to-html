@@ -15,5 +15,5 @@ yarn
 ```
 
 ```bash
-yarn -S dev > courriers.json
+yarn -s start > courriers.out.json
 ```
