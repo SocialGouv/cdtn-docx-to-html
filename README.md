@@ -18,6 +18,10 @@ yarn
 yarn -s start > courriers.out.json
 ```
 
+## Générer un ID pour un nouveau modèle
+
+L'url pour faire cela est [celle-ci](https://preprod-cdtn-admin.dev.fabrique.social.gouv.fr/api/id?source=modeles_de_courriers)
+
 ## Importation dans hasura
 
 On peut modifier les documents dans hasura avec la commande suivante.
