@@ -49,7 +49,7 @@ yarn -s start > courriers.out.json
 
 Cette commande va générer un fichier à envoyer à Hasura pour l'indexation au niveau de la base de données.
 
-### 4. Indexation dans hasura
+### 4. Indexation dans Hasura
 
 > **NB**: Il faut au préalable uploader les documents en `.docx` sur l'admin
 
