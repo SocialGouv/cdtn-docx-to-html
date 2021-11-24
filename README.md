@@ -89,7 +89,9 @@ mutation updateDocuments($objects: [documents_insert_input!]!) {
 }
 ```
 
-Query variables:
+**Query variables:**
+
+_Remplacer `courriers.out.json` par le contenu du fichier `courriers.out.json` généré._
 
 ```json
 {
@@ -97,7 +99,6 @@ Query variables:
 }
 ```
 
-Remplacer `courriers.out.json` par le contenu du fichier `courriers.out.json` généré.
 
 ### 5. Activer les nouveaux modèles
 
