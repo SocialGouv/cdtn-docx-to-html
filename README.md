@@ -116,7 +116,7 @@ mutation enableDocument($cdtnId: String!) {
 }
 ```
 
-Query variables:
+Query variables :
 
 ```json
 {
@@ -125,3 +125,24 @@ Query variables:
 ```
 
 Remplacer `XXX` par le `cdtn_id` du document à activer.
+
+Si vous souhaitez pouvoir activer plusieurs modèles :
+
+```graphql
+mutation enableDocuments($cdtnIds: [String!]!) {
+  update_documents(where: {cdtn_id: {_in: $cdtnIds }}, _set: {is_available: true}) {
+    returning {
+      cdtn_id
+      is_available
+    }
+  }
+}
+```
+
+Query variables :
+
+```json
+{
+  "cdtnIds": ["XXX", "YYY"]
+}
+```
