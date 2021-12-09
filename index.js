@@ -1,7 +1,7 @@
 const mammoth = require("mammoth");
 const fs = require("fs");
 const data = require("./courriers.json");
-const { SOURCES, getRouteBySource } = require("@socialgouv/cdtn-sources");
+const { SOURCES } = require("@socialgouv/cdtn-sources");
 const slugify = require("@socialgouv/cdtn-slugify");
 
 const DOC_DIR = "docx";
