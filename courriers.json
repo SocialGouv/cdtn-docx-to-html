@@ -616,5 +616,37 @@
       }
     ],
     "description": "Dans le cadre de l’application d’un accord collectif portant rupture conventionnelle collective, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il signe avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié (article L. 1237-19-1 du code du travail)."
+  },
+  {
+    "cdtn_id": "fa8ac0de67",
+    "initial_id": "39bbb95d-a678-4236-b0a2-9e4e3589aeb7",
+    "title": "Demande de versement de l'indemnité inflation",
+    "date": "14/12/2021",
+    "author": "Ministère du Travail",
+    "filename": "Demande_de_versement_de_l_indemnite_inflation.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044471405",
+        "title": "Décret n° 2021-1623 du 11 décembre 2021 relatif aux modalités de versement de l'aide exceptionnelle prévue à l'article 13 de la loi n° 2021-1549 du 1er décembre 2021 de finances rectificative pour 2021",
+        "type": "external"
+      }
+    ],
+    "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Dans certains cas, les salariés doivent demander le versement de cette indemnité à leur employeur. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
+  },
+  {
+    "cdtn_id": "d109af6a30",
+    "initial_id": "86f16bd8-1ede-4239-a475-e37c8c14f612",
+    "title": "Notification de dispense du versement de l'indemnité inflation",
+    "date": "14/12/2021",
+    "author": "Ministère du Travail",
+    "filename": "Notification_de_dispense_du_versement_de_l_indemnite_inflation.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044471405",
+        "title": "Décret n° 2021-1623 du 11 décembre 2021 relatif aux modalités de versement de l'aide exceptionnelle prévue à l'article 13 de la loi n° 2021-1549 du 1er décembre 2021 de finances rectificative pour 2021",
+        "type": "external"
+      }
+    ],
+    "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Les salariés ayant travaillé plus de 20h chez plusieurs employeurs au mois d'octobre bénéficieront automatiquement du versement de l'indemnité par leur employeur principal et devront informer les autres employeurs de ne pas leur verser cette indemnité. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
   }
 ]
