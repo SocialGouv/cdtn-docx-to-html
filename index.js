@@ -52,7 +52,7 @@ const convertFile2Html = ({
           filename,
           fileUrl,
           filesize: fs.statSync(`${__dirname}/${DOC_DIR}/${filename}`).size,
-          html: basic_styles + result.value,
+          html: result.value,
         },
       };
     })
