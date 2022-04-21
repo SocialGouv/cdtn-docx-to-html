@@ -195,19 +195,24 @@
     "cdtn_id": "2564772bc9",
     "initial_id": "7822c019-5080-4108-89f5-1413f3bb459e",
     "title": "Lettre de réclamation des documents de fin de contrat",
-    "date": "01/01/2020",
+    "date": "14/02/2022",
     "author": "Ministère du Travail",
     "filename": "reclamation_des_documents_de_fin_de_contrat.docx",
     "description": "À la rupture du contrat de travail, l’employeur doit délivrer au salarié des documents (ex : certificat de travail). Ce modèle permet au salarié de réclamer ces documents à l’employeur qui n’aurait pas satisfait à cette obligation.",
     "references": [
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901138",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195628",
         "title": "Article L1234-19",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537474",
-        "title": "Article R1238-3",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071122",
+        "title": "Article L1234-20",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537546",
+        "title": "Article R. 1234-9",
         "type": "external"
       }
     ]
@@ -648,5 +653,42 @@
       }
     ],
     "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Les salariés ayant travaillé plus de 20h chez plusieurs employeurs au mois d'octobre bénéficieront automatiquement du versement de l'indemnité par leur employeur principal et devront informer les autres employeurs de ne pas leur verser cette indemnité. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
+  },
+  {
+    "cdtn_id": "9a6cf1b40c",
+    "initial_id": "1b1fdfc0-30f1-4f43-8c45-7ef6146b4094",
+    "title": "Lettre de démission",
+    "date": "14/02/2022",
+    "author": "Ministère du Travail",
+    "filename": "lettre_de_demission.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071194",
+        "title": "Art. L. 1231-1",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901174",
+        "title": "Art. L. 1237-1",
+        "type": "external"
+      }
+    ],
+    "description": "La lettre de démission permet au salarié d’exprimer sa volonté claire et non équivoque de mettre fin à son contrat de travail à durée indéterminée (CDI)."
+  },
+  {
+    "cdtn_id": "fc93e808d7",
+    "initial_id": "2fe610db-2088-4ddc-9290-9c3641b6f10c",
+    "title": "Lettre accusant réception d'une lettre de démission",
+    "date": "14/02/2022",
+    "author": "Ministère du Travail",
+    "filename": "accuse_reception_lettre_de_demission.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901174",
+        "title": "Art. L. 1237-1",
+        "type": "external"
+      }
+    ],
+    "description": "Ce modèle permet à l’employeur d’accuser réception de la lettre de démission émise par le salarié et de régler l'exécution du préavis (sa durée ou sa dispense éventuelle)."
   }
 ]
