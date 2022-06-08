@@ -42,7 +42,7 @@ Ajouter un nouvel objet JSON dans le tableau contenu dans fichier `courrier.json
 Informations :
 
 * `cdtn_id`, `ìnitial_id` (
-  via [ce lien](https://preprod-cdtn-admin.dev.fabrique.social.gouv.fr/api/id?source=modeles_de_courriers))
+  via [ce lien](https://cdtn-admin-preprod.dev.fabrique.social.gouv.fr/api/id?source=modeles_de_courriers))
 * titre du document (fourni par le métier)
 * date (la date du jour)
 * author (fourni par le métier)
