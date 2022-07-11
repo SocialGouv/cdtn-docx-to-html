@@ -137,10 +137,10 @@
     "cdtn_id": "19837df114",
     "initial_id": "a9046fb7-6fd0-49d6-9a9e-d6013b1296d9",
     "title": "Certificat de travail",
-    "date": "16/12/2019",
+    "date": "08/06/2022",
     "author": "Ministère du Travail",
     "filename": "certificat_de_travail.docx",
-    "description": "Le certificat de travail est un document obligatoire remis par l’employeur au salarié à la date de fin du contrat de travail.",
+    "description": "Le certificat de travail est un document que l'employeur doit obligatoirement tenir à la disposition ou transmettre au salarié, à la date de fin du contrat de travail.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901138",
@@ -148,8 +148,13 @@
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537556",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029544357",
         "title": "Article D1234-6",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027549338",
+        "title": "Article L911-8",
         "type": "external"
       }
     ]
@@ -690,5 +695,77 @@
       }
     ],
     "description": "Ce modèle permet à l’employeur d’accuser réception de la lettre de démission émise par le salarié et de régler l'exécution du préavis (sa durée ou sa dispense éventuelle)."
+  },
+  {
+    "cdtn_id":"bb17ebe7f7",
+    "initial_id":"d449e3f4-059f-4297-a2c6-2bbbbd15a81a",
+    "title": "Demande de reprise de salaire suite à une déclaration d’inaptitude",
+    "date": "08/06/2022",
+    "author": "Ministère du Travail",
+    "filename": "reprise_de_salaire_inaptitude.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025560071",
+        "title": "Art. L. 1226-4",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900978",
+        "title": "Art. L. 1226-11",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024024756",
+        "title": "Art. L. 1226-4-2",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024877",
+        "title": "Art. L. 1226-20",
+        "type": "external"
+      }
+    ],
+    "description": "Si un salarié victime d'une maladie ou d'un accident est déclaré, le jour de sa visite de reprise, inapte à reprendre le poste qu'il occupait précédemment, l’avis rendu par le médecin du travail impose à l’employeur de lui proposer un autre emploi adapté à ses capacités (sauf dispense expresse). Il s’agit de l’obligation de reclassement.\nSi le reclassement n’est pas possible, l’employeur doit, dans le mois qui suit la délivrance de l'avis, licencier le salarié. A défaut, il devra reprendre le versement de son salaire. Le délai d’un mois commence à courir à compter de la date de l'examen médical de reprise du travail.\nCe modèle permet au salarié déclaré inapte qui n'a été ni reclassé, ni licencié à l’issue de ce délai d’un mois de demander à l’employeur de reprendre le versement de ses salaires antérieurs."
+  },
+  {
+    "cdtn_id":"cc1649e980",
+    "initial_id":"c45e7c8e-a2ad-456e-853c-1d2acb4f6ee9",
+    "title": "Convocation à un entretien préalable à une sanction disciplinaire",
+    "date": "08/06/2022",
+    "author": "Ministère du Travail",
+    "filename": "convocation_entretien_prealable_sanction_disciplinaire.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025560074",
+        "title": "Art. L. 1332-2",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018536889",
+        "title": "Art. R. 1332-1",
+        "type": "external"
+      }
+    ],
+    "description": "L’employeur qui envisage de prononcer une sanction disciplinaire ayant une incidence sur la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié doit convoquer ce dernier à un entretien préalable (ex : rétrogradation, mutation disciplinaire). Ce modèle reprend l’ensemble des mentions devant figurer dans la lettre de convocation. L’employeur pourra notifier, de façon motivée, la sanction retenue à l’encontre du salarié au plus tôt 2 jours ouvrables et au plus tard un mois après l’entretien."
+  },
+  {
+    "cdtn_id":"c9db2ec814",
+    "initial_id":"d130446c-dcf0-49c9-80d6-f8fdcae10a89",
+    "title": "Rupture anticipée du CDD suite à une embauche en CDI",
+    "date": "08/06/2022",
+    "author": "Ministère du Travail",
+    "filename": "rupture_anticipee_du_CDD_suite_a_une_embauche_en_CDI.docx",
+    "references": [
+      {
+        "title": "L1243-2",
+        "type": "code_du_travail"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018536889",
+        "title": "Art. R. 1332-1",
+        "type": "external"
+      }
+    ],
+    "description": "Le salarié peut rompre par anticipation son contrat de travail à durée déterminée (CDD) s’il justifie de son embauche en contrat à durée indéterminée (CDI), et seulement en CDI.\n\nEn principe, le départ du salarié devra intervenir à l’issue d’un préavis calculé de la manière suivante : \n- si le CDD prévoit une date de fin : 1 jour ouvré par semaine selon la durée totale du contrat (renouvellement(s) compris)\n- si le CDD ne prévoit pas de date de fin : 1 jour ouvré par semaine selon la durée déjà effectuée\n\nLa durée du préavis ne pourra pas excéder 2 semaines. \n\nCependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis."
   }
 ]
