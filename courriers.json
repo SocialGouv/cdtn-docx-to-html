@@ -767,5 +767,77 @@
       }
     ],
     "description": "Le salarié peut rompre par anticipation son contrat de travail à durée déterminée (CDD) s’il justifie de son embauche en contrat à durée indéterminée (CDI), et seulement en CDI.\n\nEn principe, le départ du salarié devra intervenir à l’issue d’un préavis calculé de la manière suivante : \n- si le CDD prévoit une date de fin : 1 jour ouvré par semaine selon la durée totale du contrat (renouvellement(s) compris)\n- si le CDD ne prévoit pas de date de fin : 1 jour ouvré par semaine selon la durée déjà effectuée\n\nLa durée du préavis ne pourra pas excéder 2 semaines. \n\nCependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis."
+  },
+  {
+    "cdtn_id": "476f2d1fc0",
+    "initial_id": "3f3e1c45-9cfc-4aed-9f26-2bfd5510725d",
+    "title": "Notification du départ du salarié à la retraite",
+    "date": "01/08/2022",
+    "author": "Ministère du Travail",
+    "filename": "Notification_depart_retraite.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901178",
+        "title": "Article L1237-4",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901183",
+        "title": "Article L1237-9",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042081264",
+        "title": "Article L1237-9-1",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901184",
+        "title": "Article L1237-10",
+        "type": "external"
+      }
+    ],
+    "description": "Quand un salarié est en droit de bénéficier d’une pension de retraite, il peut prendre l’initiative de rompre son contrat de travail. Ce modèle permet au salarié de notifier sa volonté claire et non équivoque de partir à la retraite. A noter : La convention collective ou le contrat de travail peuvent prévoir des formalités précises. Le départ du salarié est conditionné au respect d’un préavis. Cependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis. Le salarié a également droit à une indemnité de départ à la retraite."
+  },
+  {
+    "cdtn_id": "cf59538d48",
+    "initial_id": "1874dc1f-76af-4aa8-9798-194cae17824f",
+    "title": "Demande à l’employeur d’organisation des visites médicales",
+    "date": "01/08/2022",
+    "author": "Ministère du Travail",
+    "filename": "Demande_organisation_des_visites_medicales.docx",
+    "references": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903371",
+        "title": "Article L4624-1",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769085",
+        "title": "Article R4624-10",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769063",
+        "title": "Article R4624-16",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018528554",
+        "title": "Article D4622-21",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025280235",
+        "title": "Article D4622-1",
+        "type": "external"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025280042",
+        "title": "Article D4622-14",
+        "type": "external"
+      }
+    ],
+    "description": "Le salarié bénéficie d’un suivi médical, organisé par l’employeur. Ce modèle permet au salarié qui n’a bénéficié d’aucune visite (visite d'information et de prévention, visite médicale d'aptitude à l'embauche, visites périodiques) de demander à l’employeur qui n’aurait pas satisfait à ses obligations, d’organiser ou d’adhérer à un service de santé au travail. Les entreprises et établissements qui ne relèvent pas d'un service autonome de prévention et de santé au travail (possibilité prévue si l'effectif de salariés suivis atteint ou dépasse 500 salariés) organisent ou adhèrent à un service de prévention et de santé au travail interentreprises."
   }
 ]
