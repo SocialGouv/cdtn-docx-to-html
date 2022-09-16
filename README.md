@@ -25,6 +25,7 @@ Ajouter un nouvel objet JSON dans le tableau contenu dans fichier `courrier.json
   "cdtn_id": "XXX",
   "initial_id": "YYY-YYY-YY-YY-YY",
   "title": "Mon titre",
+  "meta_title": "Mon titre SEO",
   "date": "29/10/2021",
   "author": "Ministère du Travail",
   "filename": "mon.document.docx",
@@ -35,20 +36,21 @@ Ajouter un nouvel objet JSON dans le tableau contenu dans fichier `courrier.json
       "type": "external"
     }
   ],
-  "description": "Une description"
+  "description": "Une description",
+  "meta_description": "Une description SEO"
 }
 ```
 
 Informations :
 
-* `cdtn_id`, `ìnitial_id` (
+- `cdtn_id`, `ìnitial_id` (
   via [ce lien](https://cdtn-admin-preprod.dev.fabrique.social.gouv.fr/api/id?source=modeles_de_courriers))
-* titre du document (fourni par le métier)
-* date (la date du jour)
-* author (fourni par le métier)
-* filename: Nom du document word (**Attention, Il faut au préalable uploader les documents en `.docx` sur l'admin**)
-* references (fourni par le métier)
-* description (fourni par le métier)
+- titre du document (fourni par le métier)
+- date (la date du jour)
+- author (fourni par le métier)
+- filename: Nom du document word (**Attention, Il faut au préalable uploader les documents en `.docx` sur l'admin**)
+- references (fourni par le métier)
+- description (fourni par le métier)
 
 ### 3. Génération du document BDD
 
@@ -77,15 +79,15 @@ Sur la console Hasura, exécuter la requête GraphQL suivante afin de mettre à 
 
 ```graphql
 mutation updateDocuments($objects: [documents_insert_input!]!) {
-    insert_documents(
-        objects: $objects
-        on_conflict: {
-            constraint: documents_pkey
-            update_columns: [document, title, meta_description, text, slug]
-        }
-    ) {
-        affected_rows
+  insert_documents(
+    objects: $objects
+    on_conflict: {
+      constraint: documents_pkey
+      update_columns: [document, title, meta_description, text, slug]
     }
+  ) {
+    affected_rows
+  }
 }
 ```
 
@@ -99,7 +101,6 @@ _Remplacer `courriers.out.json` par le contenu du fichier `courriers.out.json` g
 }
 ```
 
-
 ### 5. Activer les nouveaux modèles
 
 Lors de l'ajout d'un nouveau modèle, celui-ci est désactivé par défaut. Il faut l'activer pour le rendre accessible sur
@@ -109,10 +110,13 @@ Sur la console Hasura, exécuter la requête GraphQL suivante afin d'activer un 
 
 ```graphql
 mutation enableDocument($cdtnId: String!) {
-    update_documents_by_pk(pk_columns: {cdtn_id: $cdtnId}, _set: {is_available: true}) {
-        cdtn_id
-        is_available
-    }
+  update_documents_by_pk(
+    pk_columns: { cdtn_id: $cdtnId }
+    _set: { is_available: true }
+  ) {
+    cdtn_id
+    is_available
+  }
 }
 ```
 
@@ -130,7 +134,10 @@ Si vous souhaitez pouvoir activer plusieurs modèles :
 
 ```graphql
 mutation enableDocuments($cdtnIds: [String!]!) {
-  update_documents(where: {cdtn_id: {_in: $cdtnIds }}, _set: {is_available: true}) {
+  update_documents(
+    where: { cdtn_id: { _in: $cdtnIds } }
+    _set: { is_available: true }
+  ) {
     returning {
       cdtn_id
       is_available

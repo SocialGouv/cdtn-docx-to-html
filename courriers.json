@@ -3,10 +3,12 @@
     "cdtn_id": "397fed9a25",
     "initial_id": "af864d27-eaa4-4242-a02a-d3eeeec6a269",
     "title": "Convocation à un entretien préalable au licenciement économique de moins de 10 salariés pendant 30 jours",
+    "meta_title": "Convocation à un entretien préalable au licenciement économique de moins de 10 salariés pendant 30 jours",
     "date": "01/01/2020",
     "author": "Ministère du Travail",
     "filename": "entretien_prealable_au_licenciement_economique_de_moins_de_10_salaries_pendant_30_jours.docx",
     "description": "L’employeur qui envisage le licenciement pour motif économique de moins de 10 salariés durant une période de 30 jours doit convoquer chaque salarié à un entretien préalable. La convocation, envoyée par lettre recommandée avec accusé de réception ou remise en main propre contre signature, doit parvenir à l’intéressé au moins 5 jours ouvrables avant l’entretien préalable.",
+    "meta_description": "L’employeur qui envisage le licenciement pour motif économique de moins de 10 salariés durant une période de 30 jours doit convoquer chaque salarié à un entretien préalable. La convocation, envoyée par lettre recommandée avec accusé de réception ou remise en main propre contre signature, doit parvenir à l’intéressé au moins 5 jours ouvrables avant l’entretien préalable.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901023",
@@ -19,10 +21,12 @@
     "cdtn_id": "48c0cda6c7",
     "initial_id": "994e4792-a28a-43a8-b4a2-8eefc7fef230",
     "title": "Demande d’accord du salarié pour le renouvellement d’une période d’essai",
+    "meta_title": "Demande d’accord du salarié pour le renouvellement d’une période d’essai",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "renouvellement_periode_essai_initiative_employeur.docx",
     "description": "La période d’essai peut être renouvelée si la branche le prévoit et si cette possibilité est inscrite dans le contrat de travail ou la lettre d’engagement. Dans ces conditions, ce modèle permet de demander le renouvellement de la période d’essai.",
+    "meta_description": "La période d’essai peut être renouvelée si la branche le prévoit et si cette possibilité est inscrite dans le contrat de travail ou la lettre d’engagement. Dans ces conditions, ce modèle permet de demander le renouvellement de la période d’essai.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071109",
@@ -35,10 +39,12 @@
     "cdtn_id": "9e793c047e",
     "initial_id": "8c0157c9-aa90-451d-a24e-ea30e1a77fb1",
     "title": "Lettre de licenciement pour motif disciplinaire",
+    "meta_title": "Licenciement pour motif disciplinaire",
     "date": "06/07/2020",
     "author": "Ministère du Travail",
     "filename": "lettre_de_licenciement_pour_motif_disciplinaire.docx",
     "description": "La lettre de licenciement doit être envoyée au salarié par LRAR, après un délai minimum de 2 jours ouvrables et avant un délai d’un mois suivant la date prévue de l’entretien préalable au licenciement. En cas de remise en mains propres, la lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. La lettre de licenciement comporte l’énoncé précis des motifs invoqués par l’employeur. Enfin, il convient de vérifier si la convention collective applicable prévoit des mesures particulières en cas de licenciement.",
+    "meta_description": "Téléchargez et personnalisez notre modèle de lettre de licenciement pour motif disciplinaire.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096",
@@ -56,10 +62,12 @@
     "cdtn_id": "18f36d823d",
     "initial_id": "f39fc044-c67a-43a6-bbec-69e415391424",
     "title": "Relevé d’heures supplémentaires",
+    "meta_title": "Relevé d’heures supplémentaires",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "tableau_recap_des_heures_supplementaires.docx",
     "description": "Les heures supplémentaires sont décomptées à la semaine et font l’objet de contreparties. Ce document permet de présenter le décompte des heures supplémentaires et les contreparties dues.",
+    "meta_description": "Les heures supplémentaires sont décomptées à la semaine et font l’objet de contreparties. Ce document permet de présenter le décompte des heures supplémentaires et les contreparties dues.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020373",
@@ -71,11 +79,13 @@
   {
     "cdtn_id": "a95c30ffff",
     "initial_id": "93428632-9d4e-4cf7-a607-d5c5f5b1c19a",
-    "title": "Rupture d’un commun accord d’un contrat de travail à durée déterminée",
+    "title": "Rupture d'un contrat de travail à durée déterminée d'un commun accord",
+    "meta_title": "Rupture d'un CDD d'un commun accord",
     "date": "20/12/2019",
     "author": "Ministère du Travail",
     "filename": "rupture_commun_accord_du_cdd.docx",
     "description": "La rupture anticipée du contrat de travail à durée déterminée par le salarié ou l’employeur, en dehors de la période d’essai, est limitée à un certain nombre de cas (ex : embauche en CDI). Une rupture d’un commun accord entre le salarié et l’employeur est cependant possible.",
+    "meta_description": "La rupture d’un CDD d’un commun accord entre le salarié et l’employeur est possible. Téléchargez et personnalisez notre modèle pour rompre un CDD d’un commun accord.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946319",
@@ -88,6 +98,7 @@
     "cdtn_id": "143bb4aafe",
     "initial_id": "c6d48d39-e45c-458c-8d3f-7b274f61fb46",
     "title": "Document d’information sur le congé de reclassement",
+    "meta_title": "Document d’information sur le congé de reclassement",
     "date": "22/07/2021",
     "author": "Ministère du Travail",
     "filename": "document-d-information-sur-le-conge-de-reclassement.docx",
@@ -115,16 +126,19 @@
         "title": "L1251-7"
       }
     ],
-    "description": "En cas de licenciement pour motif économique dans une entreprise employant au moins 1000 salariés ou appartenant à un groupe occupant au moins 1000 salariés, l’employeur doit proposer aux salariés concernés par le licenciement le congé de reclassement (article L. 1233-71). Cette obligation ne s’applique pas aux entreprises en redressement ou en liquidation judiciaire. L’employeur informe les salariés des conditions du congé de reclassement dans un document remis lors de l’entretien préalable ou, quand l’entretien n’est pas obligatoire, après la dernière réunion du CSE (article R. 1233-19). Il peut également joindre ce document à la lettre de licenciement."
+    "description": "En cas de licenciement pour motif économique dans une entreprise employant au moins 1000 salariés ou appartenant à un groupe occupant au moins 1000 salariés, l’employeur doit proposer aux salariés concernés par le licenciement le congé de reclassement (article L. 1233-71). Cette obligation ne s’applique pas aux entreprises en redressement ou en liquidation judiciaire. L’employeur informe les salariés des conditions du congé de reclassement dans un document remis lors de l’entretien préalable ou, quand l’entretien n’est pas obligatoire, après la dernière réunion du CSE (article R. 1233-19). Il peut également joindre ce document à la lettre de licenciement.",
+    "meta_description": "En cas de licenciement pour motif économique dans une entreprise employant au moins 1000 salariés ou appartenant à un groupe occupant au moins 1000 salariés, l’employeur doit proposer aux salariés concernés par le licenciement le congé de reclassement (article L. 1233-71). Cette obligation ne s’applique pas aux entreprises en redressement ou en liquidation judiciaire. L’employeur informe les salariés des conditions du congé de reclassement dans un document remis lors de l’entretien préalable ou, quand l’entretien n’est pas obligatoire, après la dernière réunion du CSE (article R. 1233-19). Il peut également joindre ce document à la lettre de licenciement."
   },
   {
     "cdtn_id": "9e95f05bae",
     "initial_id": "9ccca878-da10-480f-9bd3-62a4960e2fbb",
     "title": "Affichage obligatoire relatif au harcèlement sexuel",
+    "meta_title": "Affichage obligatoire relatif au harcèlement sexuel",
     "date": "01/08/2022",
     "author": "Ministère du Travail",
     "filename": "affichage_lutte_contre_harcelement_sexuel.docx",
     "description": "Un affichage obligatoire est prévu en matière de lutte contre le harcèlement sexuel dans les lieux de travail et sur les portes ou dans les locaux où ont lieu les embauches. Cet affichage indique les sanctions applicables, les actions contentieuses civiles et pénales en matière de harcèlement sexuel et les coordonnées des autorités et services compétents.",
+    "meta_description": "Un affichage obligatoire est prévu en matière de lutte contre le harcèlement sexuel dans les lieux de travail et sur les portes ou dans les locaux où ont lieu les embauches. Cet affichage indique les sanctions applicables, les actions contentieuses civiles et pénales en matière de harcèlement sexuel et les coordonnées des autorités et services compétents.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037389712",
@@ -137,10 +151,12 @@
     "cdtn_id": "19837df114",
     "initial_id": "a9046fb7-6fd0-49d6-9a9e-d6013b1296d9",
     "title": "Certificat de travail",
+    "meta_title": "Certificat de travail",
     "date": "08/06/2022",
     "author": "Ministère du Travail",
     "filename": "certificat_de_travail.docx",
     "description": "Le certificat de travail est un document que l'employeur doit obligatoirement tenir à la disposition ou transmettre au salarié, à la date de fin du contrat de travail.",
+    "meta_description": "Le certificat de travail est un document que l'employeur doit obligatoirement tenir à la disposition ou transmettre au salarié, à la date de fin du contrat de travail.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901138",
@@ -163,10 +179,12 @@
     "cdtn_id": "8122c6c3eb",
     "initial_id": "301b8475-7ffc-4b5f-a0fc-f7a6a241d2b1",
     "title": "Convocation à un entretien préalable au licenciement pour motif personnel",
+    "meta_title": "Convocation à un entretien préalable au licenciement pour motif personnel",
     "date": "01/01/2020",
     "author": "Ministère du Travail",
     "filename": "entretien_prealable_au_licenciement_personnel.docx",
     "description": "L’employeur qui envisage de licencier un salarié doit le convoquer à un entretien préalable. La convocation, envoyée par lettre recommandée avec accusé de réception ou remise en main propre contre signature, doit parvenir à l’intéressé au moins 5 jours ouvrables avant l’entretien préalable.",
+    "meta_description": "L’employeur qui envisage de licencier un salarié doit le convoquer à un entretien préalable. Téléchargez et personnalisez notre modèle de lettre de convocation.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901000",
@@ -179,10 +197,12 @@
     "cdtn_id": "a712ecb976",
     "initial_id": "576b0a92-16de-449e-a9d0-199e89d674cd",
     "title": "Demande de rendez-vous en vue d’une rupture conventionnelle",
+    "meta_title": "Demande de rendez-vous en vue d’une rupture conventionnelle",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "demande_rdv_rupture_conventionnelle.docx",
     "description": "La rupture conventionnelle individuelle est une modalité de rupture spécifique du CDI. Elle nécessite le consentement de l’employeur et du salarié, et son homologation par l’administration. La rupture ouvre droit à une indemnité de rupture conventionnelle. Ce modèle permet d’initier la procédure de rupture par l’invitation à un premier entretien.",
+    "meta_description": "La rupture conventionnelle individuelle est une modalité de rupture spécifique du CDI. Elle nécessite le consentement de l’employeur et du salarié, et son homologation par l’administration. La rupture ouvre droit à une indemnité de rupture conventionnelle. Ce modèle permet d’initier la procédure de rupture par l’invitation à un premier entretien.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071187",
@@ -200,10 +220,12 @@
     "cdtn_id": "2564772bc9",
     "initial_id": "7822c019-5080-4108-89f5-1413f3bb459e",
     "title": "Lettre de réclamation des documents de fin de contrat",
+    "meta_title": "Réclamation des documents de fin de contrat",
     "date": "14/02/2022",
     "author": "Ministère du Travail",
     "filename": "reclamation_des_documents_de_fin_de_contrat.docx",
     "description": "À la rupture du contrat de travail, l’employeur doit délivrer au salarié des documents (ex : certificat de travail). Ce modèle permet au salarié de réclamer ces documents à l’employeur qui n’aurait pas satisfait à cette obligation.",
+    "meta_description": "À la rupture du contrat de travail, l’employeur doit délivrer au salarié des documents (ex : certificat de travail). Téléchargez et personnalisez notre modèle pour réclamer ces documents à l’employeur qui n’aurait pas satisfait à cette obligation.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195628",
@@ -226,10 +248,12 @@
     "cdtn_id": "8d20e4cf48",
     "initial_id": "f6f59c01-650f-45ef-b67b-d109422a00fb",
     "title": "Reçu pour solde de tout compte",
+    "meta_title": "Reçu pour solde de tout compte",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "recu_pour_solde_de_tout_compte.docx",
     "description": "Le solde de tout compte est un document obligatoire remis en fin de contrat de travail. Il est établi par l’employeur et remis contre reçu au salarié qui quitte l’entreprise.",
+    "meta_description": "Le solde de tout compte est un document obligatoire remis en fin de contrat de travail. Il est établi par l’employeur et remis contre reçu au salarié qui quitte l’entreprise.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071122",
@@ -247,10 +271,12 @@
     "cdtn_id": "9dc69480a0",
     "initial_id": "96834ffb-1cd9-4383-a90b-9570c82c0e54",
     "title": "Réponse à un signalement de harcèlement sexuel",
+    "meta_title": "Réponse à un signalement de harcèlement sexuel",
     "date": "10/12/2019",
     "author": "Ministère du Travail",
     "filename": "reponse_a_signalement_harcelement_sexuel.docx",
     "description": "Ce modèle propose une réponse au salarié ayant signalé des faits de harcèlement sexuel en tant que victime ou témoin.",
+    "meta_description": "Ce modèle propose une réponse au salarié ayant signalé des faits de harcèlement sexuel en tant que victime ou témoin.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037389712",
@@ -262,11 +288,13 @@
   {
     "cdtn_id": "72bd2d0080",
     "initial_id": "30e60aa1-6583-4f55-b39b-a56a6d5e079f",
-    "title": "Rupture du contrat en période d’essai à l’initiative du salarié",
+    "title": "Rupture du contrat en période d’essai par le salarié",
+    "meta_title": "Rupture du contrat en période d’essai par le salarié",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "rupture_periode_d-essai_salarie.docx",
     "description": "Pendant la période d’essai, le contrat de travail peut être rompu librement par le salarié. Le salarié devra informer l’employeur et respecter un délai de prévenance avant de quitter ses fonctions. Ce modèle permet au salarié d’avertir l’employeur de son intention de mettre fin à la période d’essai.",
+    "meta_description": "Pendant la période d’essai, le contrat de travail peut être rompu librement par le salarié. Téléchargez et personnalisez notre modèle pour informer votre employeur de votre intention de mettre fin à la période d’essai.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071093",
@@ -278,11 +306,13 @@
   {
     "cdtn_id": "772cb955ce",
     "initial_id": "890e6e38-ff9b-4664-8469-3aec586ac13d",
-    "title": "Rupture de période d’essai à l’initiative de l’employeur",
+    "title": "Rupture de période d'essai par l'employeur",
+    "meta_title": "Rupture de période d’essai par l’employeur",
     "date": "01/01/2020",
     "author": "Ministère du Travail",
     "filename": "rupture_periode_d-essai_employeur.docx",
     "description": "Pendant la période d’essai, le contrat de travail peut être rompu librement par l’employeur. L’employeur doit dans ce cas informer le salarié et respecter un délai de prévenance.",
+    "meta_description": "Pendant la période d’essai, le contrat de travail peut être rompu librement par l’employeur. Téléchargez et personnalisez notre modèle pour informer le salarié de la rupture du contrat.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144958",
@@ -295,10 +325,12 @@
     "cdtn_id": "3b23f488f5",
     "initial_id": "55c8c193-6a81-4962-9519-5a38313df842",
     "title": "Signalement de faits pouvant relever du harcèlement moral ou sexuel",
+    "meta_title": "Signalement de faits pouvant relever du harcèlement moral ou sexuel",
     "date": "10/12/2019",
     "author": "Ministère du Travail",
     "filename": "signalement_harcelement.docx",
     "description": "Ce modèle permet au salarié victime ou témoin de faits de harcèlement moral ou sexuel d’avertir l’employeur.",
+    "meta_description": "Vous êtes victime ou témoin de faits de harcèlement moral ou sexuel au travail ? Téléchargez et personnalisez notre modèle de lettre pour informer l'employeur.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037389712",
@@ -316,10 +348,12 @@
     "cdtn_id": "ccb317cde1",
     "initial_id": "ef29c69d-9548-4c7c-8248-8d237872bc33",
     "title": "Signalement de harcèlement sexuel",
+    "meta_title": "Signalement de harcèlement sexuel",
     "date": "10/12/2019",
     "author": "Ministère du Travail",
     "filename": "signalement_harcelement_sexuel.docx",
     "description": "Ce modèle permet à un salarié victime ou témoin de harcèlement sexuel d’alerter l’employeur.",
+    "meta_description": "Ce modèle permet à un salarié victime ou témoin de harcèlement sexuel d’alerter l’employeur.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026268379",
@@ -337,10 +371,12 @@
     "cdtn_id": "f0eace1209",
     "initial_id": "701740b9-0edb-4e7d-97c9-6de216f55b4c",
     "title": "Demande de paiement de salaire",
+    "meta_title": "Demande de paiement de salaire",
     "date": "01/01/2020",
     "author": "Ministère du Travail",
     "filename": "demande_paiement_salaire.docx",
     "description": "Tout salarié doit percevoir son salaire au moins une fois par mois. Ce modèle permet au salarié de demander le paiement de son salaire dû en cas de non-paiement. Le salarié doit également garder une copie de ce courrier.",
+    "meta_description": "Tout salarié doit percevoir son salaire au moins une fois par mois. Téléchargez et personnalisez notre modèle pour demander le paiement du salaire dû en cas de non-paiement.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902858",
@@ -363,10 +399,12 @@
     "cdtn_id": "60f629e284",
     "initial_id": "3971e9c7-9d89-4eda-8591-c44dac51d497",
     "title": "Lettre de réclamation des heures supplémentaires",
+    "meta_title": "Lettre de réclamation des heures supplémentaires",
     "date": "01/01/2020",
     "author": "Ministère du Travail",
     "filename": "reclamation_des_heures_sup.docx",
     "description": "Les heures supplémentaires ouvrent droit, en plus du taux horaire, à une contrepartie soit sous la forme d’une majoration salariale soit à des contreparties sous forme de repos (repos compensateur équivalent). Ce modèle permet au salarié de demander le paiement des heures supplémentaires et le droit aux contreparties prévues.",
+    "meta_description": "Les heures supplémentaires ouvrent droit, en plus du taux horaire, à une contrepartie soit sous la forme d’une majoration salariale soit à des contreparties sous forme de repos (repos compensateur équivalent). Ce modèle permet au salarié de demander le paiement des heures supplémentaires et le droit aux contreparties prévues.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020373",
@@ -379,10 +417,12 @@
     "cdtn_id": "a4d69660b1",
     "initial_id": "af56ac2e-4a91-4f15-8b4b-c634b3fa4f80",
     "title": "Réclamation de congés payés",
+    "meta_title": "Réclamation de congés payés",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "reclamation_de_cp.docx",
     "description": "Le salarié doit pouvoir prendre l’ensemble de ses congés payés. Ce modèle permet de demander à l’employeur la prise des congés payés.",
+    "meta_description": "Le salarié doit pouvoir prendre l’ensemble de ses congés payés. Ce modèle permet de demander à l’employeur la prise des congés payés.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020775",
@@ -395,10 +435,12 @@
     "cdtn_id": "fce8c98721",
     "initial_id": "38891c20-b8a1-4ddc-b622-f9153195816d",
     "title": "Demande de dérogation à la durée minimale de travail pour un temps partiel",
+    "meta_title": "Demande de dérogation à la durée minimale de travail pour un temps partiel",
     "date": "16/12/2019",
     "author": "Ministère du Travail",
     "filename": "temps_partiel_demande_de_derogation_du_salarie.docx",
     "description": "Le code du travail fixe une durée minimale de travail pour les salariés à temps partiel. Une convention de branche étendue peut également prévoir une durée plus courte. Il est possible de déroger à cette règle pour faire face à des contraintes personnelles, un cumul d’activité ou permettre à un étudiant de moins de 26 ans d’avoir une activité salariée.",
+    "meta_description": "Le code du travail fixe une durée minimale de travail pour les salariés à temps partiel. Téléchargez et personnalisez notre modèle de lettre pour faire votre demande de dérogation.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042674204",
@@ -410,11 +452,13 @@
   {
     "cdtn_id": "1bb4d2bd84",
     "initial_id": "f22028e1-7b8f-44c9-8291-345a17ba00c7",
-    "title": "Rupture d’un commun accord d’un contrat d’apprentissage",
+    "title": "Rupture d’un contrat d’apprentissage d’un commun accord",
+    "meta_title": "Rupture d’un contrat d’apprentissage d’un commun accord",
     "date": "20/12/2019",
     "author": "Ministère du Travail",
     "filename": "rupture_amiable_du_contrat_d_apprentissage.docx",
     "description": "Le contrat d’apprentissage peut être rompu par l’apprenti ou par l’employeur jusqu’à la fin des 45 premiers jours de pratique en entreprise. Passé ce délai, la rupture du contrat est possible si le salarié et l’employeur trouvent un accord.",
+    "meta_description": "Passé le délai des 45 premiers jours de pratique en entreprise, le contrat d’apprentissage peut être rompu si le salarié et l’employeur trouvent un accord. Téléchargez et personnalisez notre modèle de rupture du contrat d’apprentissage d’un commun accord.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037386025",
@@ -427,10 +471,12 @@
     "cdtn_id": "775a83f9b8",
     "initial_id": "6fa4025b-324c-43c3-9cfd-4ed5b13f2e83",
     "title": "Lettre de licenciement pour motif personnel non disciplinaire",
+    "meta_title": "Lettre de licenciement pour motif personnel non disciplinaire",
     "date": "06/07/2020",
     "author": "Ministère du Travail",
     "filename": "lettre_de_licenciement_pour_motif_non_disciplinaire.docx",
     "description": "La lettre de licenciement doit être envoyée au salarié par LRAR ou remise contre récépissé, après un délai minimum de 2 jours ouvrables suivant la date prévue de l’entretien préalable au licenciement. En cas de remise en mains propres, la lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. La lettre de licenciement comporte l’énoncé précis des motifs invoqués par l’employeur. Enfin, il convient de vérifier si la convention collective applicable prévoit des mesures particulières en cas de licenciement.",
+    "meta_description": "La lettre de licenciement doit être envoyée au salarié par LRAR ou remise contre récépissé, après un délai minimum de 2 jours ouvrables suivant la date prévue de l’entretien préalable au licenciement. En cas de remise en mains propres, la lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. La lettre de licenciement comporte l’énoncé précis des motifs invoqués par l’employeur. Enfin, il convient de vérifier si la convention collective applicable prévoit des mesures particulières en cas de licenciement.",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096",
@@ -448,10 +494,12 @@
     "cdtn_id": "e830f04e62",
     "initial_id": "d08e4627-8133-44dc-9524-606f85229dd5",
     "title": "Lettre de licenciement suite à un accord de performance collective (APC)",
+    "meta_title": "Lettre de licenciement suite à un accord de performance collective (APC)",
     "date": "22/07/2021",
     "author": "Ministère du Travail",
     "filename": "lettre-de-licenciement-apc.docx",
     "description": "Si l’entreprise a négocié un accord de performance collective, l’employeur doit informer les salariés de son existence et de son contenu  par tout moyen conférant date certaine et précise. Ces derniers ont un délai d’un mois pour refuser la modification prévue par l’accord. Si le salarié refuse la modification, l’employeur a un délai de 2 mois à compter de la notification du refus pour engager la procédure de licenciement. Il applique la procédure prévue en cas de licenciement pour motif personnel. La lettre de licenciement doit donc être envoyée au salarié par lettre recommandée avec avis de réception ou lettre remise contre récépissé, après un délai minimum de 2 jours ouvrables suivant la date prévue de l'entretien préalable au licenciement. En cas de remise en mains propres, la lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. Elle comporte l'énoncé précis des motifs invoqués par l'employeur (articles L. 2254-2 & L. 1232-6 du code du travail).",
+    "meta_description": "Si l’entreprise a négocié un accord de performance collective, l’employeur doit informer les salariés de son existence et de son contenu  par tout moyen conférant date certaine et précise. Ces derniers ont un délai d’un mois pour refuser la modification prévue par l’accord. Si le salarié refuse la modification, l’employeur a un délai de 2 mois à compter de la notification du refus pour engager la procédure de licenciement. Il applique la procédure prévue en cas de licenciement pour motif personnel. La lettre de licenciement doit donc être envoyée au salarié par lettre recommandée avec avis de réception ou lettre remise contre récépissé, après un délai minimum de 2 jours ouvrables suivant la date prévue de l'entretien préalable au licenciement. En cas de remise en mains propres, la lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. Elle comporte l'énoncé précis des motifs invoqués par l'employeur (articles L. 2254-2 & L. 1232-6 du code du travail).",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037385300",
@@ -468,6 +516,7 @@
     "cdtn_id": "cf77b7a884",
     "initial_id": "ca50ec5b-e64d-4db4-a09e-913fdc6f78d8",
     "title": "Lettre de licenciement pour inaptitude",
+    "meta_title": "Lettre de licenciement pour inaptitude",
     "date": "22/07/2021",
     "author": "Ministère du Travail",
     "filename": "lettre-de-licenciement-pour-inaptitude.docx",
@@ -500,12 +549,14 @@
         "title": "L1232-6"
       }
     ],
-    "description": "La lettre de licenciement doit être envoyée au salarié par lettre recommandée avec avis de réception, après un délai minimum de 2 jours ouvrables suivant la date prévue de l'entretien préalable au licenciement, ou par lette remise contre récépissé (en cas de remise en mains propres). La lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. La lettre comporte l'énoncé précis des motifs invoqués par l'employeur (articles L. 1226-2-1 (inaptitude d’origine non-professionnelle), L. 1226-12 (inaptitude d’origine professionnelle) et L. 1232-6 du code du travail)."
+    "description": "La lettre de licenciement doit être envoyée au salarié par lettre recommandée avec avis de réception, après un délai minimum de 2 jours ouvrables suivant la date prévue de l'entretien préalable au licenciement, ou par lette remise contre récépissé (en cas de remise en mains propres). La lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. La lettre comporte l'énoncé précis des motifs invoqués par l'employeur (articles L. 1226-2-1 (inaptitude d’origine non-professionnelle), L. 1226-12 (inaptitude d’origine professionnelle) et L. 1232-6 du code du travail).",
+    "meta_description": "La lettre de licenciement doit être envoyée au salarié par lettre recommandée avec avis de réception, après un délai minimum de 2 jours ouvrables suivant la date prévue de l'entretien préalable au licenciement, ou par lette remise contre récépissé (en cas de remise en mains propres). La lettre doit être établie en double exemplaire et celui de l’employeur doit être accompagné de la mention “Reçu le…” avec la signature du salarié. La lettre comporte l'énoncé précis des motifs invoqués par l'employeur (articles L. 1226-2-1 (inaptitude d’origine non-professionnelle), L. 1226-12 (inaptitude d’origine professionnelle) et L. 1232-6 du code du travail)."
   },
   {
     "cdtn_id": "e90f569bf7",
     "initial_id": "8fc001aa-f0ec-4793-95c2-4fdf8988d034",
     "title": "Convocation à un entretien préalable au licenciement économique d'au moins 10 salariés pendant 30 jours",
+    "meta_title": "Convocation à un entretien préalable au licenciement économique d'au moins 10 salariés pendant 30 jours",
     "date": "29/10/2021",
     "author": "Ministère du Travail",
     "filename": "Entretien-prealable-au-licenciement-economique-d-au-moins-10-salaries-sur-30-jours.docx",
@@ -516,12 +567,14 @@
         "type": "external"
       }
     ],
-    "description": "L’employeur qui envisage le licenciement pour motif économique de 10 salariés et plus durant une période de 30 jours doit convoquer chaque salarié à un entretien préalable, si l’entreprise n’a pas mis en place un CSE (article L. 1233-38 du code du travail : «Lorsque l'employeur procède au licenciement pour motif économique d'au moins dix salariés dans une même période de trente jours et qu'il existe un comité social et économique dans l'entreprise, la procédure d'entretien préalable au licenciement ne s'applique pas ».). La convocation, envoyée par lettre recommandée avec accusé de réception ou remise en main propre contre signature, doit parvenir au salarié au moins 5 jours ouvrables avant l’entretien préalable."
+    "description": "L’employeur qui envisage le licenciement pour motif économique de 10 salariés et plus durant une période de 30 jours doit convoquer chaque salarié à un entretien préalable, si l’entreprise n’a pas mis en place un CSE (article L. 1233-38 du code du travail : «Lorsque l'employeur procède au licenciement pour motif économique d'au moins dix salariés dans une même période de trente jours et qu'il existe un comité social et économique dans l'entreprise, la procédure d'entretien préalable au licenciement ne s'applique pas ».). La convocation, envoyée par lettre recommandée avec accusé de réception ou remise en main propre contre signature, doit parvenir au salarié au moins 5 jours ouvrables avant l’entretien préalable.",
+    "meta_description": "L’employeur qui envisage le licenciement pour motif économique de 10 salariés et plus durant une période de 30 jours doit convoquer chaque salarié à un entretien préalable, si l’entreprise n’a pas mis en place un CSE (article L. 1233-38 du code du travail : «Lorsque l'employeur procède au licenciement pour motif économique d'au moins dix salariés dans une même période de trente jours et qu'il existe un comité social et économique dans l'entreprise, la procédure d'entretien préalable au licenciement ne s'applique pas ».). La convocation, envoyée par lettre recommandée avec accusé de réception ou remise en main propre contre signature, doit parvenir au salarié au moins 5 jours ouvrables avant l’entretien préalable."
   },
   {
     "cdtn_id": "3b33484506",
     "initial_id": "4c9ce58e-30cf-415f-b576-3cbf9be46dc5",
     "title": "Lettre de licenciement économique avec entretien préalable - congé de reclassement",
+    "meta_title": "Lettre de licenciement économique avec entretien préalable - congé de reclassement",
     "date": "29/10/2021",
     "author": "Ministère du Travail",
     "filename": "Lettre-de-licenciement-economique-avec-entretien-prealable-conge-de-reclassement.docx",
@@ -547,12 +600,14 @@
         "type": "external"
       }
     ],
-    "description": "La lettre de licenciement comporte l'énoncé précis des motifs invoqués par l'employeur (article L. 1232-6 du code du travail). Elle doit être envoyée au salarié par lettre recommandée avec avis de réception, après les délais suivants : <ul> <li> Licenciement économique individuel : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15) ou 2 jours en cas de procédure collective ; </li> <li> Licenciement économique de 2 à 9 salariés : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15), ce délai est porté à quinze jours ouvrables si cela concerne un membre du personnel d'encadrement (article L. 1441-13) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de moins de 50 salariés, sans CSE : 30 jours calendaires après la notification du projet de licenciement à la DREETS (article L. 1233-39), y compris en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de 50 salariés ou plus, sans CSE : après la validation de l’accord collectif ou l’homologation du document unilatéral par la DREETS (article L. 1233-39), y compris en cas de procédure collective. </li></ul>"
+    "description": "La lettre de licenciement comporte l'énoncé précis des motifs invoqués par l'employeur (article L. 1232-6 du code du travail). Elle doit être envoyée au salarié par lettre recommandée avec avis de réception, après les délais suivants : <ul> <li> Licenciement économique individuel : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15) ou 2 jours en cas de procédure collective ; </li> <li> Licenciement économique de 2 à 9 salariés : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15), ce délai est porté à quinze jours ouvrables si cela concerne un membre du personnel d'encadrement (article L. 1441-13) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de moins de 50 salariés, sans CSE : 30 jours calendaires après la notification du projet de licenciement à la DREETS (article L. 1233-39), y compris en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de 50 salariés ou plus, sans CSE : après la validation de l’accord collectif ou l’homologation du document unilatéral par la DREETS (article L. 1233-39), y compris en cas de procédure collective. </li></ul>",
+    "meta_description": "La lettre de licenciement comporte l'énoncé précis des motifs invoqués par l'employeur (article L. 1232-6 du code du travail). Elle doit être envoyée au salarié par lettre recommandée avec avis de réception, après les délais suivants : <ul> <li> Licenciement économique individuel : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15) ou 2 jours en cas de procédure collective ; </li> <li> Licenciement économique de 2 à 9 salariés : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15), ce délai est porté à quinze jours ouvrables si cela concerne un membre du personnel d'encadrement (article L. 1441-13) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de moins de 50 salariés, sans CSE : 30 jours calendaires après la notification du projet de licenciement à la DREETS (article L. 1233-39), y compris en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de 50 salariés ou plus, sans CSE : après la validation de l’accord collectif ou l’homologation du document unilatéral par la DREETS (article L. 1233-39), y compris en cas de procédure collective. </li></ul>"
   },
   {
     "cdtn_id": "b2c5988e6e",
     "initial_id": "e957799f-abd1-4995-916f-1af6b440f03c",
     "title": "Lettre de licenciement économique sans entretien préalable - congé de reclassement",
+    "meta_title": "Lettre de licenciement économique sans entretien préalable - congé de reclassement",
     "date": "29/10/2021",
     "author": "Ministère du Travail",
     "filename": "Lettre-de-licenciement-economique-sans-entretien-prealable-conge-de-reclassement.docx",
@@ -578,12 +633,14 @@
         "type": "external"
       }
     ],
-    "description": "La lettre de licenciement comporte l'énoncé précis des motifs invoqués par l'employeur (article L. 1232-6 du code du travail). Elle doit être envoyée au salarié par lettre recommandée avec avis de réception, après les délais suivants : <ul><li> Licenciement économique individuel : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique de 2 à 9 salariés : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15), ce délai est porté à quinze jours ouvrables si cela concerne un membre du personnel d'encadrement (article L. 1441-13) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de moins de 50 salariés, sans CSE : 30 jours calendaires après la notification du projet de licenciement à la DREETS (article L. 1233-39), y compris en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de 50 salariés ou plus, sans CSE : après la validation de l’accord collectif ou l’homologation du document unilatéral par la DREETS (article L. 1233-39), y compris en cas de procédure collective. </li></ul>"
+    "description": "La lettre de licenciement comporte l'énoncé précis des motifs invoqués par l'employeur (article L. 1232-6 du code du travail). Elle doit être envoyée au salarié par lettre recommandée avec avis de réception, après les délais suivants : <ul><li> Licenciement économique individuel : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique de 2 à 9 salariés : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15), ce délai est porté à quinze jours ouvrables si cela concerne un membre du personnel d'encadrement (article L. 1441-13) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de moins de 50 salariés, sans CSE : 30 jours calendaires après la notification du projet de licenciement à la DREETS (article L. 1233-39), y compris en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de 50 salariés ou plus, sans CSE : après la validation de l’accord collectif ou l’homologation du document unilatéral par la DREETS (article L. 1233-39), y compris en cas de procédure collective. </li></ul>",
+    "meta_description": "La lettre de licenciement comporte l'énoncé précis des motifs invoqués par l'employeur (article L. 1232-6 du code du travail). Elle doit être envoyée au salarié par lettre recommandée avec avis de réception, après les délais suivants : <ul><li> Licenciement économique individuel : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique de 2 à 9 salariés : 7 jours ouvrables après la date prévue de l’entretien préalable (article L. 1233-15), ce délai est porté à quinze jours ouvrables si cela concerne un membre du personnel d'encadrement (article L. 1441-13) ou 2 jours en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de moins de 50 salariés, sans CSE : 30 jours calendaires après la notification du projet de licenciement à la DREETS (article L. 1233-39), y compris en cas de procédure collective ; </li><li> Licenciement économique d’au moins 10 salariés pendant 30 jours, dans une entreprise de 50 salariés ou plus, sans CSE : après la validation de l’accord collectif ou l’homologation du document unilatéral par la DREETS (article L. 1233-39), y compris en cas de procédure collective. </li></ul>"
   },
   {
     "cdtn_id": "31bc5b1917",
     "initial_id": "62994e66-511c-494d-a74e-fa8aa93d69a6",
     "title": "Rupture d'un commun accord - Congé de mobilité",
+    "meta_title": "Rupture d'un commun accord - Congé de mobilité",
     "date": "29/10/2021",
     "author": "Ministère du Travail",
     "filename": "Rupture-d-un-commun-accord-conge-de-mobilite.docx",
@@ -604,12 +661,14 @@
         "type": "external"
       }
     ],
-    "description": "Dans le cadre de l’application d’un accord collectif de congé de mobilité, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il peut signer avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié."
+    "description": "Dans le cadre de l’application d’un accord collectif de congé de mobilité, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il peut signer avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié.",
+    "meta_description": "Dans le cadre de l’application d’un accord collectif de congé de mobilité, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il peut signer avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié."
   },
   {
     "cdtn_id": "5431774efa",
     "initial_id": "440a15ba-2c52-4b08-b7f5-f44e3164dc20",
     "title": "Rupture d'un commun accord - Rupture conventionnelle collective",
+    "meta_title": "Rupture d'un commun accord - Rupture conventionnelle collective",
     "date": "29/10/2021",
     "author": "Ministère du Travail",
     "filename": "Rupture-d-un-commun-accord-rupture-conventionnelle-collective.docx",
@@ -625,12 +684,14 @@
         "type": "external"
       }
     ],
-    "description": "Dans le cadre de l’application d’un accord collectif portant rupture conventionnelle collective, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il signe avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié (article L. 1237-19-1 du code du travail)."
+    "description": "Dans le cadre de l’application d’un accord collectif portant rupture conventionnelle collective, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il signe avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié (article L. 1237-19-1 du code du travail).",
+    "meta_description": "Dans le cadre de l’application d’un accord collectif portant rupture conventionnelle collective, le salarié peut présenter sa candidature au départ dans les conditions prévues par cet accord. Si l’employeur accepte sa candidature, il signe avec le salarié une convention individuelle de rupture d’un commun accord qui précise les conditions de départ du salarié (article L. 1237-19-1 du code du travail)."
   },
   {
     "cdtn_id": "fa8ac0de67",
     "initial_id": "39bbb95d-a678-4236-b0a2-9e4e3589aeb7",
     "title": "Demande de versement de l'indemnité inflation",
+    "meta_title": "Demande de versement de l'indemnité inflation",
     "date": "14/12/2021",
     "author": "Ministère du Travail",
     "filename": "Demande_de_versement_de_l_indemnite_inflation.docx",
@@ -641,12 +702,14 @@
         "type": "external"
       }
     ],
-    "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Dans certains cas, les salariés doivent demander le versement de cette indemnité à leur employeur. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
+    "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Dans certains cas, les salariés doivent demander le versement de cette indemnité à leur employeur. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>",
+    "meta_description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Dans certains cas, les salariés doivent demander le versement de cette indemnité à leur employeur. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
   },
   {
     "cdtn_id": "d109af6a30",
     "initial_id": "86f16bd8-1ede-4239-a475-e37c8c14f612",
     "title": "Notification de dispense du versement de l'indemnité inflation",
+    "meta_title": "Notification de dispense du versement de l'indemnité inflation",
     "date": "14/12/2021",
     "author": "Ministère du Travail",
     "filename": "Notification_de_dispense_du_versement_de_l_indemnite_inflation.docx",
@@ -657,12 +720,14 @@
         "type": "external"
       }
     ],
-    "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Les salariés ayant travaillé plus de 20h chez plusieurs employeurs au mois d'octobre bénéficieront automatiquement du versement de l'indemnité par leur employeur principal et devront informer les autres employeurs de ne pas leur verser cette indemnité. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
+    "description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Les salariés ayant travaillé plus de 20h chez plusieurs employeurs au mois d'octobre bénéficieront automatiquement du versement de l'indemnité par leur employeur principal et devront informer les autres employeurs de ne pas leur verser cette indemnité. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>",
+    "meta_description": "Les salariés gagnant moins de 2 000 euros nets par mois (soit en pratique moins de 2600 euros bruts par mois) et ayant une rémunération brute inférieure à 26000 euros entre janvier et octobre 2021 vont percevoir l’indemnité inflation à partir du mois de décembre 2021 ou, au plus tard, le 28 février 2022. Les salariés ayant travaillé plus de 20h chez plusieurs employeurs au mois d'octobre bénéficieront automatiquement du versement de l'indemnité par leur employeur principal et devront informer les autres employeurs de ne pas leur verser cette indemnité. Pour en savoir plus, consultez la page <a href=\"https://code.travail.gouv.fr/information/indemnite-inflation-infographies\">indemnité inflation (infographies)</a>"
   },
   {
     "cdtn_id": "9a6cf1b40c",
     "initial_id": "1b1fdfc0-30f1-4f43-8c45-7ef6146b4094",
     "title": "Lettre de démission",
+    "meta_title": "Lettre de démission",
     "date": "14/02/2022",
     "author": "Ministère du Travail",
     "filename": "lettre_de_demission.docx",
@@ -678,12 +743,14 @@
         "type": "external"
       }
     ],
-    "description": "La lettre de démission permet au salarié d’exprimer sa volonté claire et non équivoque de mettre fin à son contrat de travail à durée indéterminée (CDI)."
+    "description": "La lettre de démission permet au salarié d’exprimer sa volonté claire et non équivoque de mettre fin à son contrat de travail à durée indéterminée (CDI).",
+    "meta_description": "La lettre de démission permet au salarié d’exprimer sa volonté claire et non équivoque de mettre fin à son contrat de travail à durée indéterminée (CDI)."
   },
   {
     "cdtn_id": "fc93e808d7",
     "initial_id": "2fe610db-2088-4ddc-9290-9c3641b6f10c",
     "title": "Lettre accusant réception d'une lettre de démission",
+    "meta_title": "Lettre accusant réception d'une lettre de démission",
     "date": "14/02/2022",
     "author": "Ministère du Travail",
     "filename": "accuse_reception_lettre_de_demission.docx",
@@ -694,12 +761,14 @@
         "type": "external"
       }
     ],
-    "description": "Ce modèle permet à l’employeur d’accuser réception de la lettre de démission émise par le salarié et de régler l'exécution du préavis (sa durée ou sa dispense éventuelle)."
+    "description": "Ce modèle permet à l’employeur d’accuser réception de la lettre de démission émise par le salarié et de régler l'exécution du préavis (sa durée ou sa dispense éventuelle).",
+    "meta_description": "Ce modèle permet à l’employeur d’accuser réception de la lettre de démission émise par le salarié et de régler l'exécution du préavis (sa durée ou sa dispense éventuelle)."
   },
   {
-    "cdtn_id":"bb17ebe7f7",
-    "initial_id":"d449e3f4-059f-4297-a2c6-2bbbbd15a81a",
+    "cdtn_id": "bb17ebe7f7",
+    "initial_id": "d449e3f4-059f-4297-a2c6-2bbbbd15a81a",
     "title": "Demande de reprise de salaire suite à une déclaration d’inaptitude",
+    "meta_title": "Demande de reprise de salaire suite à une déclaration d’inaptitude",
     "date": "08/06/2022",
     "author": "Ministère du Travail",
     "filename": "reprise_de_salaire_inaptitude.docx",
@@ -725,12 +794,14 @@
         "type": "external"
       }
     ],
-    "description": "Si un salarié victime d'une maladie ou d'un accident est déclaré, le jour de sa visite de reprise, inapte à reprendre le poste qu'il occupait précédemment, l’avis rendu par le médecin du travail impose à l’employeur de lui proposer un autre emploi adapté à ses capacités (sauf dispense expresse). Il s’agit de l’obligation de reclassement.\nSi le reclassement n’est pas possible, l’employeur doit, dans le mois qui suit la délivrance de l'avis, licencier le salarié. A défaut, il devra reprendre le versement de son salaire. Le délai d’un mois commence à courir à compter de la date de l'examen médical de reprise du travail.\nCe modèle permet au salarié déclaré inapte qui n'a été ni reclassé, ni licencié à l’issue de ce délai d’un mois de demander à l’employeur de reprendre le versement de ses salaires antérieurs."
+    "description": "Si un salarié victime d'une maladie ou d'un accident est déclaré, le jour de sa visite de reprise, inapte à reprendre le poste qu'il occupait précédemment, l’avis rendu par le médecin du travail impose à l’employeur de lui proposer un autre emploi adapté à ses capacités (sauf dispense expresse). Il s’agit de l’obligation de reclassement.\nSi le reclassement n’est pas possible, l’employeur doit, dans le mois qui suit la délivrance de l'avis, licencier le salarié. A défaut, il devra reprendre le versement de son salaire. Le délai d’un mois commence à courir à compter de la date de l'examen médical de reprise du travail.\nCe modèle permet au salarié déclaré inapte qui n'a été ni reclassé, ni licencié à l’issue de ce délai d’un mois de demander à l’employeur de reprendre le versement de ses salaires antérieurs.",
+    "meta_description": "Si un salarié victime d'une maladie ou d'un accident est déclaré, le jour de sa visite de reprise, inapte à reprendre le poste qu'il occupait précédemment, l’avis rendu par le médecin du travail impose à l’employeur de lui proposer un autre emploi adapté à ses capacités (sauf dispense expresse). Il s’agit de l’obligation de reclassement.\nSi le reclassement n’est pas possible, l’employeur doit, dans le mois qui suit la délivrance de l'avis, licencier le salarié. A défaut, il devra reprendre le versement de son salaire. Le délai d’un mois commence à courir à compter de la date de l'examen médical de reprise du travail.\nCe modèle permet au salarié déclaré inapte qui n'a été ni reclassé, ni licencié à l’issue de ce délai d’un mois de demander à l’employeur de reprendre le versement de ses salaires antérieurs."
   },
   {
-    "cdtn_id":"cc1649e980",
-    "initial_id":"c45e7c8e-a2ad-456e-853c-1d2acb4f6ee9",
+    "cdtn_id": "cc1649e980",
+    "initial_id": "c45e7c8e-a2ad-456e-853c-1d2acb4f6ee9",
     "title": "Convocation à un entretien préalable à une sanction disciplinaire",
+    "meta_title": "Convocation à un entretien préalable à une sanction disciplinaire",
     "date": "08/06/2022",
     "author": "Ministère du Travail",
     "filename": "convocation_entretien_prealable_sanction_disciplinaire.docx",
@@ -746,12 +817,14 @@
         "type": "external"
       }
     ],
-    "description": "L’employeur qui envisage de prononcer une sanction disciplinaire ayant une incidence sur la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié doit convoquer ce dernier à un entretien préalable (ex : rétrogradation, mutation disciplinaire). Ce modèle reprend l’ensemble des mentions devant figurer dans la lettre de convocation. L’employeur pourra notifier, de façon motivée, la sanction retenue à l’encontre du salarié au plus tôt 2 jours ouvrables et au plus tard un mois après l’entretien."
+    "description": "L’employeur qui envisage de prononcer une sanction disciplinaire ayant une incidence sur la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié doit convoquer ce dernier à un entretien préalable (ex : rétrogradation, mutation disciplinaire). Ce modèle reprend l’ensemble des mentions devant figurer dans la lettre de convocation. L’employeur pourra notifier, de façon motivée, la sanction retenue à l’encontre du salarié au plus tôt 2 jours ouvrables et au plus tard un mois après l’entretien.",
+    "meta_description": "L’employeur qui envisage de prononcer une sanction disciplinaire ayant une incidence sur la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié doit convoquer ce dernier à un entretien préalable (ex : rétrogradation, mutation disciplinaire). Ce modèle reprend l’ensemble des mentions devant figurer dans la lettre de convocation. L’employeur pourra notifier, de façon motivée, la sanction retenue à l’encontre du salarié au plus tôt 2 jours ouvrables et au plus tard un mois après l’entretien."
   },
   {
-    "cdtn_id":"c9db2ec814",
-    "initial_id":"d130446c-dcf0-49c9-80d6-f8fdcae10a89",
+    "cdtn_id": "c9db2ec814",
+    "initial_id": "d130446c-dcf0-49c9-80d6-f8fdcae10a89",
     "title": "Rupture anticipée du CDD suite à une embauche en CDI",
+    "meta_title": "Rupture anticipée du CDD suite à une embauche en CDI",
     "date": "08/06/2022",
     "author": "Ministère du Travail",
     "filename": "rupture_anticipee_du_CDD_suite_a_une_embauche_en_CDI.docx",
@@ -766,12 +839,14 @@
         "type": "external"
       }
     ],
-    "description": "Le salarié peut rompre par anticipation son contrat de travail à durée déterminée (CDD) s’il justifie de son embauche en contrat à durée indéterminée (CDI), et seulement en CDI.\n\nEn principe, le départ du salarié devra intervenir à l’issue d’un préavis calculé de la manière suivante : \n- si le CDD prévoit une date de fin : 1 jour ouvré par semaine selon la durée totale du contrat (renouvellement(s) compris)\n- si le CDD ne prévoit pas de date de fin : 1 jour ouvré par semaine selon la durée déjà effectuée\n\nLa durée du préavis ne pourra pas excéder 2 semaines. \n\nCependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis."
+    "description": "Le salarié peut rompre par anticipation son contrat de travail à durée déterminée (CDD) s’il justifie de son embauche en contrat à durée indéterminée (CDI), et seulement en CDI.\n\nEn principe, le départ du salarié devra intervenir à l’issue d’un préavis calculé de la manière suivante : \n- si le CDD prévoit une date de fin : 1 jour ouvré par semaine selon la durée totale du contrat (renouvellement(s) compris)\n- si le CDD ne prévoit pas de date de fin : 1 jour ouvré par semaine selon la durée déjà effectuée\n\nLa durée du préavis ne pourra pas excéder 2 semaines. \n\nCependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis.",
+    "meta_description": "Le salarié peut rompre par anticipation son contrat de travail à durée déterminée (CDD) s’il justifie de son embauche en contrat à durée indéterminée (CDI), et seulement en CDI.\n\nEn principe, le départ du salarié devra intervenir à l’issue d’un préavis calculé de la manière suivante : \n- si le CDD prévoit une date de fin : 1 jour ouvré par semaine selon la durée totale du contrat (renouvellement(s) compris)\n- si le CDD ne prévoit pas de date de fin : 1 jour ouvré par semaine selon la durée déjà effectuée\n\nLa durée du préavis ne pourra pas excéder 2 semaines. \n\nCependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis."
   },
   {
     "cdtn_id": "476f2d1fc0",
     "initial_id": "3f3e1c45-9cfc-4aed-9f26-2bfd5510725d",
     "title": "Notification du départ du salarié à la retraite",
+    "meta_title": "Notification du départ du salarié à la retraite",
     "date": "01/08/2022",
     "author": "Ministère du Travail",
     "filename": "Notification_depart_retraite.docx",
@@ -797,12 +872,14 @@
         "type": "external"
       }
     ],
-    "description": "Quand un salarié est en droit de bénéficier d’une pension de retraite, il peut prendre l’initiative de rompre son contrat de travail. Ce modèle permet au salarié de notifier sa volonté claire et non équivoque de partir à la retraite. A noter : La convention collective ou le contrat de travail peuvent prévoir des formalités précises. Le départ du salarié est conditionné au respect d’un préavis. Cependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis. Le salarié a également droit à une indemnité de départ à la retraite."
+    "description": "Quand un salarié est en droit de bénéficier d’une pension de retraite, il peut prendre l’initiative de rompre son contrat de travail. Ce modèle permet au salarié de notifier sa volonté claire et non équivoque de partir à la retraite. A noter : La convention collective ou le contrat de travail peuvent prévoir des formalités précises. Le départ du salarié est conditionné au respect d’un préavis. Cependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis. Le salarié a également droit à une indemnité de départ à la retraite.",
+    "meta_description": "Quand un salarié est en droit de bénéficier d’une pension de retraite, il peut prendre l’initiative de rompre son contrat de travail. Ce modèle permet au salarié de notifier sa volonté claire et non équivoque de partir à la retraite. A noter : La convention collective ou le contrat de travail peuvent prévoir des formalités précises. Le départ du salarié est conditionné au respect d’un préavis. Cependant, l’employeur et le salarié peuvent en décider autrement et fixer une durée plus courte ou prévoir un départ sans préavis. Le salarié a également droit à une indemnité de départ à la retraite."
   },
   {
     "cdtn_id": "cf59538d48",
     "initial_id": "1874dc1f-76af-4aa8-9798-194cae17824f",
     "title": "Demande à l’employeur d’organisation des visites médicales",
+    "meta_title": "Demande à l’employeur d’organisation des visites médicales",
     "date": "01/08/2022",
     "author": "Ministère du Travail",
     "filename": "Demande_organisation_des_visites_medicales.docx",
@@ -838,6 +915,7 @@
         "type": "external"
       }
     ],
-    "description": "Le salarié bénéficie d’un suivi médical, organisé par l’employeur. Ce modèle permet au salarié qui n’a bénéficié d’aucune visite (visite d'information et de prévention, visite médicale d'aptitude à l'embauche, visites périodiques) de demander à l’employeur qui n’aurait pas satisfait à ses obligations, d’organiser ou d’adhérer à un service de santé au travail. Les entreprises et établissements qui ne relèvent pas d'un service autonome de prévention et de santé au travail (possibilité prévue si l'effectif de salariés suivis atteint ou dépasse 500 salariés) organisent ou adhèrent à un service de prévention et de santé au travail interentreprises."
+    "description": "Le salarié bénéficie d’un suivi médical, organisé par l’employeur. Ce modèle permet au salarié qui n’a bénéficié d’aucune visite (visite d'information et de prévention, visite médicale d'aptitude à l'embauche, visites périodiques) de demander à l’employeur qui n’aurait pas satisfait à ses obligations, d’organiser ou d’adhérer à un service de santé au travail. Les entreprises et établissements qui ne relèvent pas d'un service autonome de prévention et de santé au travail (possibilité prévue si l'effectif de salariés suivis atteint ou dépasse 500 salariés) organisent ou adhèrent à un service de prévention et de santé au travail interentreprises.",
+    "meta_description": "Le salarié bénéficie d’un suivi médical, organisé par l’employeur. Ce modèle permet au salarié qui n’a bénéficié d’aucune visite (visite d'information et de prévention, visite médicale d'aptitude à l'embauche, visites périodiques) de demander à l’employeur qui n’aurait pas satisfait à ses obligations, d’organiser ou d’adhérer à un service de santé au travail. Les entreprises et établissements qui ne relèvent pas d'un service autonome de prévention et de santé au travail (possibilité prévue si l'effectif de salariés suivis atteint ou dépasse 500 salariés) organisent ou adhèrent à un service de prévention et de santé au travail interentreprises."
   }
 ]
