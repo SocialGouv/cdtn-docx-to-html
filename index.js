@@ -26,6 +26,7 @@ const convertFile2Html = ({
   title,
   description,
   filename,
+  meta_description,
   ...rest
 }) => {
   return mammoth
@@ -41,7 +42,7 @@ const convertFile2Html = ({
       return {
         cdtn_id,
         initial_id,
-        meta_description: description,
+        meta_description,
         slug,
         source: SOURCES.LETTERS,
         text: description,
