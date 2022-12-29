@@ -3,16 +3,16 @@
 
 
 "@socialgouv/cdtn-slugify@^4.41.0":
-  version "4.75.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-slugify/-/cdtn-slugify-4.75.0.tgz#a65485d86f8a82b989fd07758df86fdae941b237"
-  integrity sha512-ZHpjjY1GyLmc1VarVIcNeZme8BgmHRmyTQuLEF3pWj2Hzbxg9TTEap1r1u+RussapUj1U9GUl50v1B00vJqs0A==
+  version "4.76.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-slugify/-/cdtn-slugify-4.76.0.tgz#76eba4d9274e707c583d9c52e1ca12d5e736641d"
+  integrity sha512-Bbn3uApXIPyYUx0rdJW9GiVbOpXZZKg1hwfl3SZCfGCxkS5NBlExCRdvlfPvqB6hZB6ZtNRtje/rX11NyzpMAg==
   dependencies:
     "@types/jest" "^27.0.1"
 
 "@socialgouv/cdtn-sources@^4.42.0":
-  version "4.75.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-sources/-/cdtn-sources-4.75.0.tgz#b0a1b7d25805f772de023519724a710227b91bac"
-  integrity sha512-HEuE8r+ZZuI7/Hybq/vwRmYWNvsgaFFe530TXguxkzL3arJShIRCJPQTZzVwPZStIl0QsiuFp7FBNWItXXkbMA==
+  version "4.76.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-sources/-/cdtn-sources-4.76.0.tgz#06ad173b70ff5365b8c98426f506ec2d821522f2"
+  integrity sha512-Kr6x5+0umApCcqWckc/xNbKvRddUlP3U9fItEjk4/y0W+FfmvMf0EH0gYgknwxYXIeL2bH2SJLRpa7LA9PAlzw==
 
 "@socialgouv/datafiller-data@^2.13.0":
   version "2.20.0"
@@ -292,9 +292,9 @@ jest-matcher-utils@^27.0.0:
     pretty-format "^27.5.1"
 
 jszip@^3.7.1:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/jszip/-/jszip-3.8.0.tgz#a2ac3c33fe96a76489765168213655850254d51b"
-  integrity sha512-cnpQrXvFSLdsR9KR5/x7zdf6c3m8IhZfZzSblFEHSqBaVwD2nvJ4CuCKLyvKvwBgZm08CgfSoiTBQLm5WW9hGw==
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/jszip/-/jszip-3.9.1.tgz#784e87f328450d1e8151003a9c67733e2b901051"
+  integrity sha512-H9A60xPqJ1CuC4Ka6qxzXZeU8aNmgOeP5IFqwJbQQwtu2EUYxota3LdsiZWplF7Wgd9tkAd0mdu36nceSaPuYw==
   dependencies:
     lie "~3.3.0"
     pako "~1.0.2"
@@ -599,9 +599,9 @@ trough@^1.0.0:
   integrity sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA==
 
 underscore@^1.13.1:
-  version "1.13.2"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.2.tgz#276cea1e8b9722a8dbed0100a407dda572125881"
-  integrity sha512-ekY1NhRzq0B08g4bGuX4wd2jZx5GnKz6mKSqFL4nqBlfyMGiG10gDFhDTMEfYmDL6Jy0FUIZp7wiRB+0BP7J2g==
+  version "1.13.3"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.3.tgz#54bc95f7648c5557897e5e968d0f76bc062c34ee"
+  integrity sha512-QvjkYpiD+dJJraRA8+dGAU4i7aBbb2s0S3jA45TFOvg2VgqvdCDd/3N6CqA8gluk1W91GLoXg5enMUx560QzuA==
 
 unherit@^1.0.4:
   version "1.1.3"
