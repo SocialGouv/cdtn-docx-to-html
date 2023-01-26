@@ -72,7 +72,7 @@ Depuis le projet `cdtn-admin`, exécuter les commandes suivantes :
 ```bash
 kubectl config use-context prod
 kubectl config set-context --current --namespace=cdtn-admin # or kubens cdtn-admin
-kubectl port-forward deployment/hasura 8080:80 # or use k9s
+kubectl port-forward deployment/hasura 8080:8080 # or use k9s
 hasura console --endpoint http://localhost:8080 --admin-secret "(à récupérer sur rancher dans le secret hasura)" --project targets/hasura
 ```
 
@@ -151,6 +151,9 @@ Query variables :
 
 ```json
 {
-  "cdtnIds": ["XXX", "YYY"]
+  "cdtnIds": [
+    "XXX",
+    "YYY"
+  ]
 }
 ```
