@@ -3,16 +3,16 @@
 
 
 "@socialgouv/cdtn-slugify@^4.41.0":
-  version "4.88.1"
-  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-slugify/-/cdtn-slugify-4.88.1.tgz#27ec00606bfa11114fb0b2acd463095975397f18"
-  integrity sha512-p49flrER/nxXw/e3Uu+Uib6ZA8hp8Dl4MSxjHrq+c+the+TXqNHp9sGbMUrMc1GTvwnSkKwCNvqHMR0eIh2lig==
+  version "4.89.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-slugify/-/cdtn-slugify-4.89.0.tgz#09539cac3e1a94db9f6b0c98c514112ba8869369"
+  integrity sha512-PduXVKhuvScuYXyP4D7MOmPURSYV5Xvag0yXkx9QIziKa8bknn221K2rm4KtlkmIPNyFIJIuL2m9NMumSuUIlQ==
   dependencies:
     "@types/jest" "^27.0.1"
 
 "@socialgouv/cdtn-sources@^4.42.0":
-  version "4.88.1"
-  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-sources/-/cdtn-sources-4.88.1.tgz#8b4969b9af251f50c9a32cd581431072b2d646ae"
-  integrity sha512-QtD5wMAopTa607+8XqpkL8idkvG4nh0lhJbxGhNGxzB/1X9gyOtGzPV3/nOJ5OpL1V0FRtH5o6qm8Rjj9dkgpw==
+  version "4.89.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-sources/-/cdtn-sources-4.89.0.tgz#494528bd1cbbec20c9a5fbf54d17c31e4a7869ae"
+  integrity sha512-uUXZ8SLsqq4UTrpE+uqAJPdrCq5thEFBLGhCjxIE4WbB6xLISEevw/VCcvv/qLJwnCb3/56elpwxkZFtHSNUfg==
 
 "@socialgouv/datafiller-data@^2.13.0":
   version "2.20.0"
@@ -383,9 +383,9 @@ mdurl@^1.0.0:
   integrity sha512-/sKlQJCBYVY9Ers9hqzKou4H6V5UWc/M59TH2dvkt+84itfnq7uFOMLpOiOS4ujvHP4etln18fmIxA5R5fll0g==
 
 node-fetch@^2.6.1:
-  version "2.6.7"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
-  integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
+  version "2.6.9"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.9.tgz#7c7f744b5cc6eb5fd404e0c7a9fec630a55657e6"
+  integrity sha512-DJm/CJkZkRjKKj4Zi4BsKVZh3ValV5IR5s7LVZnW+6YMh0W1BfNA8XSs6DLMGYlId5F3KnA70uu2qepcR08Qqg==
   dependencies:
     whatwg-url "^5.0.0"
 
