@@ -3,16 +3,16 @@
 
 
 "@socialgouv/cdtn-slugify@^4.41.0":
-  version "4.89.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-slugify/-/cdtn-slugify-4.89.0.tgz#09539cac3e1a94db9f6b0c98c514112ba8869369"
-  integrity sha512-PduXVKhuvScuYXyP4D7MOmPURSYV5Xvag0yXkx9QIziKa8bknn221K2rm4KtlkmIPNyFIJIuL2m9NMumSuUIlQ==
+  version "4.91.1"
+  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-slugify/-/cdtn-slugify-4.91.1.tgz#611abc5c1349ec3a02cb42931c885c82b9dad594"
+  integrity sha512-POpG/zfulxrXuV9F9heMcJAukAED7fvU5DtwYbzTGX3qzARpfjpBwhSPAKPFuMegLLMSD/zmxR/vJ4OVjDJOlw==
   dependencies:
     "@types/jest" "^27.0.1"
 
 "@socialgouv/cdtn-sources@^4.42.0":
-  version "4.89.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-sources/-/cdtn-sources-4.89.0.tgz#494528bd1cbbec20c9a5fbf54d17c31e4a7869ae"
-  integrity sha512-uUXZ8SLsqq4UTrpE+uqAJPdrCq5thEFBLGhCjxIE4WbB6xLISEevw/VCcvv/qLJwnCb3/56elpwxkZFtHSNUfg==
+  version "4.91.1"
+  resolved "https://registry.yarnpkg.com/@socialgouv/cdtn-sources/-/cdtn-sources-4.91.1.tgz#73a9d53c8428808631d4575c30b451279532d417"
+  integrity sha512-pxBxxtrrvVRcwaSMsjP/7xH66NRT+JulFWomszm29J59eRf2nC3kojPxbYRgMlhw/OQWs+o+Tnj0Bn2Yx0HDDA==
 
 "@socialgouv/datafiller-data@^2.13.0":
   version "2.20.0"
@@ -33,9 +33,9 @@
     pretty-format "^27.0.0"
 
 "@types/mdast@^3.0.0":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@types/mdast/-/mdast-3.0.10.tgz#4724244a82a4598884cbbe9bcfd73dff927ee8af"
-  integrity sha512-W864tg/Osz1+9f4lrGTZpCSO5/z4608eUp19tbozkq2HJK6i3z1kT0H9tlADXuYIb1YYOBByU4Jsqkk75q48qA==
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/@types/mdast/-/mdast-3.0.11.tgz#dc130f7e7d9306124286f6d6cee40cf4d14a3dc0"
+  integrity sha512-Y/uImid8aAwrEA24/1tcRZwpxX3pIFTSilcNDKSPn+Y2iDywSEachzRuvgAYYLR3wpGXAsMbv5lvKLDZLeYPAw==
   dependencies:
     "@types/unist" "*"
 
@@ -448,9 +448,9 @@ react-is@^17.0.1:
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
 readable-stream@~2.3.6:
-  version "2.3.7"
-  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.7.tgz#1eca1cf711aef814c04f62252a36a62f6cb23b57"
-  integrity sha512-Ebho8K4jIbHAxnuxi7o42OrZgF/ZTNcsZj6nRKyUmkhLFq8CHItp/fy6hQZuZmP/n3yZ9VBUbp4zz/mX8hmYPw==
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.8.tgz#91125e8042bba1b9887f49345f6277027ce8be9b"
+  integrity sha512-8p0AUk4XODgIewSi0l8Epjs+EVnWiK7NoDIEGU0HhE7+ZyY8D1IMY7odu5lRrFXGg71L15KG8QrPmum45RTtdA==
   dependencies:
     core-util-is "~1.0.0"
     inherits "~2.0.3"
