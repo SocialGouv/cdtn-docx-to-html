@@ -86,11 +86,11 @@
     "title": "Rupture d'un contrat de travail à durée déterminée d'un commun accord",
     "meta_title": "Rupture d'un CDD d'un commun accord",
     "type": "fichier",
-    "date": "20/12/2019",
+    "date": "28/09/2023",
     "author": "Ministère du Travail",
     "filename": "rupture_commun_accord_du_cdd.docx",
-    "description": "La rupture anticipée du contrat de travail à durée déterminée par le salarié ou l’employeur, en dehors de la période d’essai, est limitée à un certain nombre de cas (ex : embauche en CDI). Une rupture d’un commun accord entre le salarié et l’employeur est cependant possible. Il est à noter que la rupture conventionnelle individuelle est une modalité de rupture spécifique du CDI, qui ne s’applique pas aux CDD.",
-    "meta_description": "La rupture d’un CDD d’un commun accord entre le salarié et l’employeur est possible. Téléchargez et personnalisez notre modèle pour rompre un CDD d’un commun accord.",
+    "description": "La rupture anticipée du contrat de travail à durée déterminée par le salarié ou l’employeur, en dehors de la période d’essai, est limitée à un certain nombre de cas (ex : embauche en CDI). Une rupture d’un commun accord entre le salarié et l’employeur est cependant possible. Elle ouvre droit en principe à une indemnité de fin de contrat (certains CDD tels que les contrats saisonniers ou d’usage n’ouvrent cependant pas droit à cette indemnité). Il est à noter que la rupture conventionnelle individuelle est une modalité de rupture spécifique du CDI, qui ne s’applique pas aux CDD.",
+    "meta_description": "La rupture anticipée du contrat de travail à durée déterminée par le salarié ou l’employeur, en dehors de la période d’essai, est limitée à un certain nombre de cas (ex : embauche en CDI).",
     "references": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946319",
@@ -250,7 +250,7 @@
       },
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537546",
-        "title": "Article R. 1234-9",
+        "title": "Article R1234-9",
         "type": "external"
       }
     ]
@@ -563,14 +563,6 @@
       },
       {
         "type": "code_du_travail",
-        "title": "L1226-2-1"
-      },
-      {
-        "type": "code_du_travail",
-        "title": "L1226-12"
-      },
-      {
-        "type": "code_du_travail",
         "title": "L1232-6"
       }
     ],
@@ -607,22 +599,22 @@
     "filename": "Lettre-de-licenciement-economique-avec-entretien-prealable-conge-de-reclassement.docx",
     "references": [
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096",
         "title": "Article L1232-6",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344944/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344944",
         "title": "Article L1233-15",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032345313/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032345313",
         "title": "Article L1441-13",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566048/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566048",
         "title": "Article L1233-39",
         "type": "external"
       }
@@ -641,22 +633,22 @@
     "filename": "Lettre-de-licenciement-economique-sans-entretien-prealable-conge-de-reclassement.docx",
     "references": [
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096",
         "title": "Article L1232-6",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344944/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344944",
         "title": "Article L1233-15",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032345313/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032345313",
         "title": "Article L1441-13",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566048/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566048",
         "title": "Article L1233-39",
         "type": "external"
       }
@@ -675,18 +667,18 @@
     "filename": "Rupture-d-un-commun-accord-conge-de-mobilite.docx",
     "references": [
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036702808/",
-        "title": "Article L.1237-18",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036702808",
+        "title": "Article L1237-18",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035623963/",
-        "title": "Article L.1237-18-4",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035623963",
+        "title": "Article L1237-18-4",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036702967/",
-        "title": "Article L.1237-18-5",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036702967",
+        "title": "Article L1237-18-5",
         "type": "external"
       }
     ],
@@ -704,12 +696,12 @@
     "filename": "Rupture-d-un-commun-accord-rupture-conventionnelle-collective.docx",
     "references": [
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762168/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762168",
         "title": "Article L1237-19-1",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762166/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762166",
         "title": "Article L1237-19-2",
         "type": "external"
       }
@@ -968,7 +960,7 @@
     "filename": "Promesse _d_embauche.docx",
     "references": [
       {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040818/",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040818",
         "title": "Article 1124 du Code civil",
         "type": "external"
       },
@@ -978,17 +970,17 @@
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000032868133/",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000032868133",
         "title": "Cour de cassation, chambre sociale, 6 juillet 2016, n° 15-11.138",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000035616989/",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000035616989",
         "title": "Cour de cassation, chambre sociale, 21 septembre 2017, n° 16-20.103",
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000035617009/",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000035617009",
         "title": "Cour de cassation, chambre sociale, 21 septembre 2017, n° 16-20.104",
         "type": "external"
       }
@@ -1012,7 +1004,7 @@
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189440",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901072",
         "title": "Article L.1233-59 du Code du travail",
         "type": "external"
       }
@@ -1045,7 +1037,7 @@
     "title": "Proposition d’entretien en vue d’une éventuelle rupture conventionnelle",
     "meta_title": "Proposition d’entretien en vue d’une éventuelle rupture conventionnelle",
     "type": "document",
-    "date": "05/06/2023",
+    "date": "29/09/2023",
     "author": "Ministère du Travail",
     "filename": "Proposition.d.entretien.en.vue.d.une.eventuelle.rupture.conventionnelle.docx",
     "references": [
@@ -1084,7 +1076,7 @@
         "type": "external"
       },
       {
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000019535842/",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000019535842",
         "title": "Cour de cassation, civile, Chambre sociale, 24 septembre 2008, 06-46.292, Publié au bulletin",
         "type": "external"
       }
