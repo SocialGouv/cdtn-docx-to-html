@@ -1,3 +1,6 @@
+⚠️ cette fonctionalité est maintenant directement dans [l'outil d'admin](https://github.com/SocialGouv/cdtn-admin/tree/master/targets/frontend/src/modules/models). Les modèles de documents sont stockès en db.
+
+
 # Modèles de documents disponibles pour le cdtn (aka mailTemplates)
 
 Les courriers sont stockés dans le dossier [`./docx`](./docx). Afin de pouvoir qualifier chaque courrier, un fichier
